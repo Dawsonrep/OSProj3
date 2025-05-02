@@ -7,7 +7,7 @@
 int num_threads = DEFAULT_THREADS;
 int buffer_max_size = DEFAULT_BUFFER_SIZE;
 int scheduling_algo = DEFAULT_SCHED_ALGO;	
-
+//
 //
 //	TODO: add code to create and manage the shared global buffer of requests
 //	HINT: You will need synchronization primitives.
